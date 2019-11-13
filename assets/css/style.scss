@@ -42,6 +42,8 @@ h1 {
 	&.pagetitle {
 		margin: 1.5em 0em 0.5em 0em;
 		font-size: 2.5em;
+		box-shadow: inset 5px 300px 5px rgba(51, 51, 109, 0.43);
+		font-style: italic;
 	}
 }
 h2 {

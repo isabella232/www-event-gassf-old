@@ -31,9 +31,38 @@ section {
 		color: #fff;
 		background: $darkblue;
 	}
+
+table {
+	width: 100%;
+	margin-bottom: 1em;
+	table-layout: fixed;
+	
+	th, td {
+		padding: 0.5em;		
+	}
+	thead {
+		tr {
+			background: $darkblue;
+			color: #fff;
+		}
+		th {
+			text-align: left;
+			font-weight: bold;
+		}
+	}
+	tbody {
+		tr:nth-child(2n) {
+			background: #eee;
+		}
+	}
+
+	td::after { 
+		content: ''; 
+		display: block; 
+		width: 30px;
+		}
+	}
 }
-
-
 
 
 @media (max-width: 500px) {

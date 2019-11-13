@@ -5,7 +5,9 @@
   - title: Call for Trainings
     url  : 'program/call-for-trainings'
 - title: Sponsor
-  url  : sponsors/
+  items: 
+  - title: Opportunities
+    url  : sponsors/
 - title: About
   items:
   - title: Code of Conduct

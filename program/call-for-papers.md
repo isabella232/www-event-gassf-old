@@ -2,4 +2,4 @@
 title: Call for Papers 
 ---
 
-To be announced
+CfT and CfP will open on February 1, 2020

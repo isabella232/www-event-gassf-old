@@ -8,7 +8,7 @@ title: Lodging
 San Francisco, CA 94111<br>
 USA
 
-OWASP is pleased to offer a room rate of $329 [book room here](#)
+OWASP is pleased to offer a room rate of $329 [book room here](https://hotelmap.com/events/M2L4M-LV)
 
 ### Why stay at the conference hotel:
 

@@ -41,14 +41,14 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 | Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
 | Conference Passes | Three  | Three  | Three  | Three  | 
 | Logo on Event website | Yes | Yes | Yes | Yes |
-| Lead Scanner | Yes | Yes | Yes | Yes |
+| Lead Scanner* | Yes | Yes | Yes | Yes |
 | Cost | $120,000 | $80,000 | $45,000 | $25,000 |
 | ***Additional Benefits*** | | | |
 | Discounted Passes | 50% Full Conference | 50% Full Conference | 20% Full Conference | 20% Full Conference |
 | Training Passes | 10 Seats |10 Seats |10 Seats |2 Seats |
 | On-Site Training | 10 Days | 5 Days | None| None |
 | Recognition on website | Bio and Logo | Bio and Logo | Bio and Logo | Bio and Logo |
-| Press Release | Yes | Yes | Yes | Yes |
 | Discounted Corporate Membership | Yes | Yes | Yes | Yes |
 
 Corporate Sponsorships have twelve months of benefits from the date payment is received.  
+    * At participating events

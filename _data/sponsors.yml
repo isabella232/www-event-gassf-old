@@ -1,0 +1,83 @@
+- type: Gold
+  sponsors:
+    - logo: securecodewarrior_gold.png
+      name: Secure Code Warrior
+      url: https://securecodewarrior.com
+- type: Silver
+  sponsors:
+    - logo: Altitude Networks_Silver SF.jpg
+      name: Altitude Networks
+      url : https://www.altitudenetworks.com/
+    - logo: Bugcrowd_SILPKG_SF.png
+      name: Bugcrowd
+      url : http://www.bugcrowd.com/
+    - logo: Detectify_Silver_SF.jpg
+      name: Detectify
+      url : https://detectify.com
+    - logo: ExtraHop_Silver.png
+      name: ExtraHop
+      url : http://www.extrahop.com/
+    - logo: intertrust_Silver.png
+      name: Intertrust
+      url : https://www.intertrust.com/
+    - logo: Lyft_Silver.png
+      name: Lyft
+      url : http://www.lyft.com/
+    - logo: NowSecure_Silver.png
+      name: NowSecure
+      url : https://www.nowsecure.com/
+    - logo: Qualys_Silver.jpg
+      name: Qualys
+      url : https://www.qualys.com/
+    - logo: RIPSTech_Silver.png
+      name: RIPS Technologies
+      url: https://ripstech.com
+      backgroundSize: 125px
+    - logo: Salt_Logo_Ruby.png
+      name: Salt Security
+      url : https://salt.security/
+    - logo: Security_Journey_Logo_Ruby.png
+      name: Security Journey
+      url: https://www.securityjourney.com
+      backgroundSize: 125px
+    - logo: sqreen_Silver.png
+      name: Sqreen
+      url : https://www.sqreen.com/
+    - logo: tala_silver.png
+      name: Tala Security
+      url : http://www.talasecurity.io/
+    - logo: WhitesourceSilver.png
+      name: White Source Software
+      url : https://www.whitesourcesoftware.com/
+    - logo: ZeroNorth_Silver.png
+      name: Zero North
+      url : https://www.zeronorth.io/
+- type: Sapphire
+  sponsors:   
+    - logo: Acunetix_Sapphire_SF.png
+      name: Acunetix
+      url: https://www.acunetix.com
+    - logo: Micro_Focus_Sapphire.png
+      name: Micro Focus
+      url: https://www.microfocus.com/en-us/home
+    - logo: Netsparker_Sapphire_SF.png
+      name: Netsparker
+      url: https://www.netsparker.com/
+    - logo: Rapid71_Sapphire.jpg
+      name: Rapid7
+      url: https://www.rapid7.com/
+    - logo: Salesforce_Sapphire_SF.png
+      name: Salesforce
+      url: https://www.salesforce.com/
+    - logo: securitycompass-logo_Sapphire.jpg
+      name: Security Compass
+      url: https://www.securitycompass.com/
+- type: Ruby
+  sponsors:
+    - logo: Security_Innovation_Ruby_SF.png
+      name: Security Innovation
+      url : https://www.securityinnovation.com/
+    - logo: whitehat.490x81.png
+      name: Whitehat Security
+      url : https://www.whitehatsec.com/
+      backgroundSize: 125px

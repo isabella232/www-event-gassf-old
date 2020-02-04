@@ -1,9 +1,8 @@
 - type: Gold
   sponsors:
-    - logo: /assets/images/sponsors/securecodewarrior_gold.png
+    - logo: /assets/images/sponsors/secure-code-warrior.png
       name: Secure Code Warrior
       url: https://securecodewarrior.com
-      backgroundSize: 125px
 - type: Silver
   sponsors:
     - logo: /assets/images/sponsors/Altitude_Networks_Silver_SF.jpg

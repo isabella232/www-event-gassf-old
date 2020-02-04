@@ -1,99 +1,99 @@
 - type: Gold
   sponsors:
-    - logo: securecodewarrior_gold.png
+    - logo: /assets/images/sponsors/securecodewarrior_gold.png
       name: Secure Code Warrior
       url: https://securecodewarrior.com
       backgroundSize: 125px
 - type: Silver
   sponsors:
-    - logo: Altitude Networks_Silver SF.jpg
+    - logo: /assets/images/sponsors/Altitude_Networks_Silver SF.jpg
       name: Altitude Networks
       url : https://www.altitudenetworks.com/
-    - logo: Bugcrowd_SILPKG_SF.png
+    - logo: /assets/images/sponsors/Bugcrowd_SILPKG_SF.png
       name: Bugcrowd
       url : http://www.bugcrowd.com/
       backgroundSize: 125px
-    - logo: Detectify_Silver_SF.jpg
+    - logo: /assets/images/sponsors/Detectify_Silver_SF.jpg
       name: Detectify
       url : https://detectify.com
-    - logo: ExtraHop_Silver.png
+    - logo: /assets/images/sponsors/ExtraHop_Silver.png
       name: ExtraHop
       url : http://www.extrahop.com/
       backgroundSize: 125px
-    - logo: intertrust_Silver.png
+    - logo: /assets/images/sponsors/intertrust_Silver.png
       name: Intertrust
       url : https://www.intertrust.com/
       backgroundSize: 125px
-    - logo: Lyft_Silver.png
+    - logo: /assets/images/sponsors/Lyft_Silver.png
       name: Lyft
       url : http://www.lyft.com/
       backgroundSize: 125px
-    - logo: NowSecure_Silver.png
+    - logo: /assets/images/sponsors/NowSecure_Silver.png
       name: NowSecure
       url : https://www.nowsecure.com/
       backgroundSize: 125px
-    - logo: Qualys_Silver.jpg
+    - logo: /assets/images/sponsors/Qualys_Silver.jpg
       name: Qualys
       url : https://www.qualys.com/
       backgroundSize: 125px
-    - logo: RIPSTech_Silver.png
+    - logo: /assets/images/sponsors/RIPSTech_Silver.png
       name: RIPS Technologies
       url: https://ripstech.com
       backgroundSize: 125px
-    - logo: Salt_Logo_Ruby.png
+    - logo: /assets/images/sponsors/Salt_Logo_Ruby.png
       name: Salt Security
       url : https://salt.security/
       backgroundSize: 125px
-    - logo: Security_Journey_Logo_Ruby.png
+    - logo: /assets/images/sponsors/Security_Journey_Logo_Ruby.png
       name: Security Journey
       url: https://www.securityjourney.com
       backgroundSize: 125px
-    - logo: sqreen_Silver.png
+    - logo: /assets/images/sponsors/sqreen_Silver.png
       name: Sqreen
       url : https://www.sqreen.com/
-    - logo: tala_silver.png
+    - logo: /assets/images/sponsors/tala_silver.png
       name: Tala Security
       url : http://www.talasecurity.io/
-    - logo: WhitesourceSilver.png
+    - logo: /assets/images/sponsors/WhitesourceSilver.png
       name: White Source Software
       url : https://www.whitesourcesoftware.com/
       backgroundSize: 125px
-    - logo: ZeroNorth_Silver.png
+    - logo: /assets/images/sponsors/ZeroNorth_Silver.png
       name: Zero North
       url : https://www.zeronorth.io/
       backgroundSize: 125px
 - type: Sapphire
   sponsors:   
-    - logo: Acunetix_Sapphire_SF.png
+    - logo: /assets/images/sponsors/Acunetix_Sapphire_SF.png
       name: Acunetix
       url: https://www.acunetix.com
       backgroundSize: 125px
-    - logo: Micro_Focus_Sapphire.png
+    - logo: /assets/images/sponsors/Micro_Focus_Sapphire.png
       name: Micro Focus
       url: https://www.microfocus.com/en-us/home
       backgroundSize: 125px
-    - logo: Netsparker_Sapphire_SF.png
+    - logo: /assets/images/sponsors/Netsparker_Sapphire_SF.png
       name: Netsparker
       url: https://www.netsparker.com/
       backgroundSize: 125px
-    - logo: Rapid71_Sapphire.jpg
+    - logo: /assets/images/sponsors/Rapid71_Sapphire.jpg
       name: Rapid7
       url: https://www.rapid7.com/
       backgroundSize: 125px
-    - logo: Salesforce_Sapphire_SF.png
+    - logo: /assets/images/sponsors/Salesforce_Sapphire_SF.png
       name: Salesforce
       url: https://www.salesforce.com/
-    - logo: securitycompass-logo_Sapphire.jpg
+    - logo: /assets/images/sponsors/securitycompass-logo_Sapphire.jpg
       name: Security Compass
       url: https://www.securitycompass.com/
       backgroundSize: 125px
 - type: Ruby
   sponsors:
-    - logo: Security_Innovation_Ruby_SF.png
+    - logo: /assets/images/sponsors/Security_Innovation_Ruby_SF.png
       name: Security Innovation
       url : https://www.securityinnovation.com/
       backgroundSize: 125px
-    - logo: whitehat.490x81.png
+    - logo: /assets/images/sponsors/whitehat.490x81.png
       name: Whitehat Security
       url : https://www.whitehatsec.com/
       backgroundSize: 125px

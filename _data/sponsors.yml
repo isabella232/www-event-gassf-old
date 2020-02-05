@@ -1,8 +1,10 @@
-- type: Gold Corporate Sponsor
+- type: Gold Corporate 
+   sponsor:
     - logo: /assets/images/sponsors/secure-code-warrior.png
       name: Secure Code Warrior
       url: https://securecodewarrior.com
-- type: Silver Corporate Sponsor
+- type: Silver Corporate 
+   sponsor:
     - logo: /assets/images/sponsors/Altitude_Networks_Silver_SF.jpg
       name: Altitude Networks
       url : https://www.altitudenetworks.com/

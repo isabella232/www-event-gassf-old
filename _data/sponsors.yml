@@ -53,6 +53,10 @@
     - logo: /assets/images/sponsors/tala_silver.png
       name: Tala Security
       url : http://www.talasecurity.io/
+    - logo: /assets/images/sponsors/veracode.png
+      name: Veracode
+      url : https://www.veracode.com/
+      backgroundSize: 125px    
     - logo: /assets/images/sponsors/WhitesourceSilver.png
       name: White Source Software
       url : https://www.whitesourcesoftware.com/

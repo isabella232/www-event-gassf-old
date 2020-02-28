@@ -15,6 +15,7 @@
     - logo: /assets/images/sponsors/detectify.png
       name: Detectify
       url : https://detectify.com
+      backgroundSize: 125px
     - logo: /assets/images/sponsors/ExtraHop_Silver.png
       name: ExtraHop
       url : http://www.extrahop.com/
